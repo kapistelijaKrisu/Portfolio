@@ -28,4 +28,4 @@ First project to apply some kind of architecture. (Even before I got into univer
 I am willing to show this for the reason of showing my initiative in learning.
 Looking into code now after years pains me a little myself...
 sadly jar file didn't fit in via upload...too be fixed.
-https://github.com/kapistelijaKrisu
+https://github.com/kapistelijaKrisu/AsteroidCrash
