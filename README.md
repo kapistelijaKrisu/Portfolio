@@ -15,6 +15,7 @@ https://github.com/Ouzii/ohtuMiniprojektiTeamPollot
 5 week (due to crashes 3.5 week) database and PHP project course
 Grade B, not so proud of it as I was not able to give it the time it needed to learn PHP and fully understand how MVC works.
 However I am proud that i was able to learn in that time as much as I did from knowing nothing about PHP and MVC architecture.
+https://github.com/kapistelijaKrisu/GearProgression
 
 ## java made paint program
 7 week iterative programming course project
