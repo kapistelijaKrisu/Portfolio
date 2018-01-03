@@ -25,6 +25,6 @@ Seven week iterative programming project course
 
 ## Hello app
 First project to apply some kind of architecture. Done in about a month. (Even before I got into university)
-<br/> I am willing to show this for the reason of showing my initiative in learning.
-<br/> Looking into code now after years pains me a little myself...
+<br/> I am willing to show this for the reason of showing my initiative in learning!
+<br/> Looking into code now after years pains me a little myself but it is my first child.
 <br/> https://github.com/kapistelijaKrisu/AsteroidCrash
