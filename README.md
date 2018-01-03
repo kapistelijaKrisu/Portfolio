@@ -23,3 +23,9 @@ Grade A, as UI was not the focus of the course but a complete application needs 
 Proud of the backend c:
 https://github.com/kapistelijaKrisu/JavaPaint
 
+## Hello complete app
+First project to apply some kind of architecture. (Even before I got into university)
+I am willing to show this for the reason of showing my initiative in learning.
+Looking into code now after years pains me a little myself...
+sadly jar file didn't fit in via upload...too be fixed.
+https://github.com/kapistelijaKrisu
