@@ -27,5 +27,4 @@ Seven week iterative programming course project
 First project to apply some kind of architecture. Done in about a month. (Even before I got into university)
 <br/> I am willing to show this for the reason of showing my initiative in learning.
 <br/> Looking into code now after years pains me a little myself...
-<br/> sadly jar file didn't fit in via upload...too be fixed.
 <br/> https://github.com/kapistelijaKrisu/AsteroidCrash
