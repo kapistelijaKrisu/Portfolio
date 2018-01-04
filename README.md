@@ -1,5 +1,5 @@
 # Portfolio
-Projects I've done or participated in.
+Projects I've completed and/or participated in
 
 ## News page
 Two-week school project (at the end of spring server course)
