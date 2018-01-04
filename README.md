@@ -2,29 +2,23 @@
 Projects I've done or participated in.
 
 ## News page
-Two week school project (at the end of spring server course)
-<br/> under grading
+Two-week school project (at the end of spring server course)
+<br/> (grade pending)
 <br/> https://github.com/kapistelijaKrisu/wepaJava
 
 ## Bookmark handler (group project)
-Four week scrum practice assignment (part of software prodoction course)
-<br/> under grading
+Four-week Scrum practice-assignment (part of software production course)
+<br/> (grade pending)
 <br/> https://github.com/Ouzii/ohtuMiniprojektiTeamPollot
 
-## book-keeping tool for a game
-Five week (due to crashes 3.5 week) database and PHP project course
-<br/> Grade B, not so proud of it as I was not able to give it the time it needed to learn PHP and fully understand how MVC works.
-<br/> However I am proud that i was able to learn in that time as much as I did from knowing nothing about PHP and MVC architecture.
+## Book-keeping tool for a game
+Five-week (due to crashes 3.5-week) database and PHP project course
+<br/> Grade received: B. Because of the 1.5 week crash issues, I was unable to give it the time it needed to learn PHP and fully understand how MVC works.
+<br/> However, I am proud that I was able to learn as much as I did in that time, starting with 0 background knowledge in PHP and MVC architecture.
 <br/> https://github.com/kapistelijaKrisu/GearProgression
 
-## java made paint program
-Seven week iterative programming project course
-<br/> Grade A, as UI was not the focus of the course but a complete application needs one. It was treated as such.
-<br/> Proud of the backend c:
+## Java-made paint program
+Seven-week iterative programming project course
+<br/> Grade received: A. UI was not the focus of the course but a completed application needs one. It was treated as such.
+<br/> Proud of the backend 
 <br/> https://github.com/kapistelijaKrisu/JavaPaint
-
-## Hello app
-First project to apply some kind of architecture. Done in about a month. (Even before I got into university)
-<br/> I am willing to show this for the reason of showing my initiative in learning!
-<br/> Looking into code now after years pains me a little myself but it is my first child.
-<br/> https://github.com/kapistelijaKrisu/AsteroidCrash
