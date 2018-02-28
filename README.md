@@ -8,7 +8,8 @@ Two-week school project (at the end of spring server course)
 
 ## Bookmark handler (group project)
 Four-week Scrum practice-assignment (part of software production course)
-<br/> (grade pending)
+<br/> broke with lombok update
+<br/> (9/10)
 <br/> https://github.com/Ouzii/ohtuMiniprojektiTeamPollot
 
 ## Book-keeping tool for a game
